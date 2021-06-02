@@ -30,7 +30,7 @@ int main(){
 
 //available resources = 5 pertama kali
 
-//Nama Kelompok :
+//NAMA KELOMPOK :
 //Hendra 203400013
 //Yohanes Calvin 203400008
 
