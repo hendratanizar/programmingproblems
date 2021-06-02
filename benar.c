@@ -29,3 +29,9 @@ int main(){
 }
 
 //available resources = 5 pertama kali
+
+//Nama Kelompok :
+//Hendra 203400013
+//Yohanes Calvin 203400008
+
+//Terima kasih!
